@@ -2,6 +2,8 @@
 
 インターネットの動画をダウンロードできるWindowsのフリーソフトです。
 
+https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/3319c161-c282-462b-a325-b5ba523c3188
+
 ### ハードウェア要件
 
 #### プロセッサ:
@@ -91,9 +93,6 @@ YouTube,Po〇nhub,ニコニコ動画などのURLをコピペしましょう
 
 チェックを入れるとmp3としてダウンロードできます。
 
-## 動画
-
-<iframe src="https://1drv.ms/v/c/0a58bce068e3bcd0/IQPWoFg5-5PcSZTafCiZmMjTARVh8AvO2vdrcieLDOLk9EA" width="1920" height="1080" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 #### ダウンロード
 
