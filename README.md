@@ -10,7 +10,7 @@ https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/3319c161-
 
 1 GHz以上のプロセッサ
 
-### メモリ:
+#### メモリ:
 
 最小：512 MB
 
