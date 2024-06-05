@@ -2,7 +2,7 @@
 
 インターネットの動画をダウンロードできるWindowsのフリーソフトです。
 
-https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/3319c161-c282-462b-a325-b5ba523c3188
+
 
 ### ハードウェア要件
 
@@ -75,28 +75,10 @@ pip（Pythonのパッケージマネージャ）がインストールされて�
 
 初回起動時は時間がかかります。気長に待ちましょう(実行に必要なモジュールをインストールしているため)
 
-こんな小窓が表示されたら完了です。お疲れ様でした。
+完了です。お疲れ様でした。
 
-![up](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/4776c3fa-0ab1-4f55-b2bc-9b8dee1dfae3)
 
 ## 使い方
 
-![up](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/4776c3fa-0ab1-4f55-b2bc-9b8dee1dfae3)
 
-#### URLの入力欄
-
-YouTube,Po〇nhub,ニコニコ動画などのURLをコピペしましょう
-
-#### 保存先
-
-保存先のパスを入力 or 選択しましょう
-
-#### 音声に変換
-
-チェックを入れるとmp3としてダウンロードできます。
-
-
-#### ダウンロード
-
-設定が終わったら押してください。指定したパスに保存されるはずです。
 
