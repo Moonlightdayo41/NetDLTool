@@ -1,3 +1,5 @@
-pip install PySimpleGUI yt-dlp pydub
+@echo off
 
-start main.pyw
+pip install yt-dlp > NUL
+
+Python main.py
