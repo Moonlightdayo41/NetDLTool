@@ -105,3 +105,9 @@ Success. Convert mp4 to mp3 ==> https://convertio.co/ja/mp4-mp3/ と出たら完
 ![スクリーンショット 2024-06-05 145023](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/f33defa7-fc37-479e-b27a-ed45cc794852)
 
 入力に間違えがあります。URLに間違えがないか、パスに間違えがないか確認してください。
+
+## サポート
+
+[Discord](https://discord.gg/zmfcM7AY4H)
+
+[X(旧Twitter)](https://x.com/Mayodayo41)
