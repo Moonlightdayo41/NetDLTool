@@ -100,9 +100,7 @@ Success. Convert mp4 to mp3 ==> https://convertio.co/ja/mp4-mp3/ と出たら完
 
 ## エラー
 
-### ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube
-
-An error occurred: ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube
+### ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube An error occurred: ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube
 
 ![スクリーンショット 2024-06-05 145023](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/f33defa7-fc37-479e-b27a-ed45cc794852)
 
