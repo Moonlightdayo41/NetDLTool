@@ -28,6 +28,7 @@
 
 ### ソフトウェア要件
 
+
 #### オペレーティングシステム:
 
 Windows: Windows 8.1、Windows 10、Windows 11
@@ -69,16 +70,40 @@ pip（Pythonのパッケージマネージャ）がインストールされて�
 ## ソフトの実行
 このページからダウンロードしたInternetDownloader.zipを解凍します。
 
+![b7d775f69eaaad0a](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/bd90d736-2a86-4f29-843a-2f1c7e5f1c0e)
 
 解凍したら、 InternetDownloader.bat をダブルクリックしましょう。
 
+![スクリーンショット 2024-06-05 143517](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/3ea0253e-faaf-4427-8ac6-81a5fd0bf105)
 
 初回起動時は時間がかかります。気長に待ちましょう(実行に必要なモジュールをインストールしているため)
 
-完了です。お疲れ様でした。
+こんな画面が出たら完了です。お疲れ様でした。
 
+![スクリーンショット 2024-06-05 143634](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/4739f9fd-fe1d-42ed-aa19-fa2627f21dc6)
 
 ## 使い方
 
+### Enter URL:
 
+![スクリーンショット 2024-06-05 143634](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/4739f9fd-fe1d-42ed-aa19-fa2627f21dc6)
 
+YouTube Po◯nHub ニコニコ動画 のURLをコピペしてEnterを押しましょう。
+
+### Destination Directory:
+
+![スクリーンショット 2024-06-05 144049](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/f5053340-d163-425c-8ca5-c6c4292ba6d7)
+
+保存先のパスを入力してEnterを押しましょう。
+
+Success. Convert mp4 to mp3 ==> https://convertio.co/ja/mp4-mp3/ と出たら完了です。
+
+## エラー
+
+### ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube
+
+An error occurred: ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube
+
+![スクリーンショット 2024-06-05 145023](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/f33defa7-fc37-479e-b27a-ed45cc794852)
+
+入力に間違えがあります。URLに間違えがないか、パスに間違えがないか確認してください。
