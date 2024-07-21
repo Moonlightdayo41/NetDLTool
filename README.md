@@ -1,4 +1,4 @@
-# InternetDownloader
+# InternetVideoDownloader
 
 インターネットの動画をダウンロードできるWindowsのフリーソフトです。
 
