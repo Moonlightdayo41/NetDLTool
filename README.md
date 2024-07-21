@@ -2,7 +2,7 @@
 
 インターネットの動画をダウンロードできるWindowsのフリーソフトです。
 
-<img src="https://img.shields.io/badge/Downloads-53.7MB-00A98F.svg?logo=&style=for-the-badge"> <a href="https://github.com/Moonlightdayo41/InternetVideoDownloader/releases/latest">
+# [Download](https://github.com/Moonlightdayo41/InternetVideoDownloader/releases/latest)
 
 ### ハードウェア要件
 
