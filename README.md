@@ -43,9 +43,9 @@ Linux: Kernel 2.6.32以降が動作するディストリビューション
 
 pip（Pythonのパッケージマネージャ）がインストールされていること
 
-## Python3.12.0のダウンロード
+## Python3.10.9のダウンロード
 
-1.ここから[Python3.12.0のダウンロードページ](https://www.python.org/downloads/release/python-3120/)に飛んでください
+1.ここから[Python3.10.9のダウンロードページ](https://www.python.org/downloads/release/python-3109/)に飛んでください
 
 2.下までスクロールし、ご自身のPCに合わせてどちらかをダウンロードしてください。 [Windowsのビット数の確認方法](https://qiita.com/susunusa/items/65c974919e86a3225dea)
 ![dl](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/bb8de0a2-dafc-4c56-9ac0-069e7293791e)
