@@ -2,6 +2,11 @@ import yt_dlp
 import os
 import webbrowser
 
+# Function to display progress
+def progress_hook(d):
+    if d['status'] == 'downloading':
+        print(f"Downloading: {d['_percent_str']} at {d['_speed_str']} ETA: {d['_eta_str']}")
+
 # Display menu
 def show_menu():
     print("""
@@ -15,6 +20,10 @@ def main():
     url = input("Enter URL: ")
     folder = input("Destination Directory: ")
 
+    # Set default download folder if none is provided
+    if not folder:
+        folder = os.path.join(os.path.expanduser("~"), "Downloads")
+
     # Execute download
     try:
         # Download video using yt-dlp
@@ -22,7 +31,8 @@ def main():
         ydl_opts = {
             'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
             'outtmpl': output_template,
-            'quiet': True,  # yt-dlpのログを非表示にする
+            'progress_hooks': [progress_hook],  # 進行状況を表示するフック
+            'extractor_args': {'youtube': {'player_client': ['web']}}  # APIの問題回避
         }
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             info = ydl.extract_info(url, download=True)
