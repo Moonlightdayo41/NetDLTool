@@ -68,43 +68,31 @@ pip（Pythonのパッケージマネージャ）がインストールされて�
 <p data-sourcepos="91:1-91:51">以上でインストール作業は終了です。</p>
 
 ## ソフトの実行
-このページからダウンロードしたInternetDownloader.zipを解凍します。
+このページからダウンロードしたNetDLTool.zipを解凍します。
 
 ![b7d775f69eaaad0a](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/bd90d736-2a86-4f29-843a-2f1c7e5f1c0e)
 
-解凍したら、 InternetDownloader.bat をダブルクリックしましょう。
+解凍したら、 packageinstaller.bat をダブルクリックしましょう。
 
-![スクリーンショット 2024-06-05 143517](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/3ea0253e-faaf-4427-8ac6-81a5fd0bf105)
+![image](https://github.com/user-attachments/assets/f74d9375-5848-4bdf-81a5-cbc58048ce7c)
 
 初回起動時は時間がかかります。気長に待ちましょう(実行に必要なモジュールをインストールしているため)
 
+続行するには何かキーを押して下さいとでたらEnterキーを押します
+
+main.exeをダブルクリック
+
+![image](https://github.com/user-attachments/assets/f74d9375-5848-4bdf-81a5-cbc58048ce7c)
+
 こんな画面が出たら完了です。お疲れ様でした。
 
-![スクリーンショット 2024-06-05 143634](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/4739f9fd-fe1d-42ed-aa19-fa2627f21dc6)
+![image](https://github.com/user-attachments/assets/9a89f82e-cd0a-4dfa-9a11-8d35e034e2cf)
 
 ## 使い方
 
-### Enter URL:
+下のサムネイルをクリックして動画が見れます
 
-![スクリーンショット 2024-06-05 143634](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/4739f9fd-fe1d-42ed-aa19-fa2627f21dc6)
-
-YouTube Po◯nHub ニコニコ動画 のURLをコピペしてEnterを押しましょう。
-
-### Destination Directory:
-
-![スクリーンショット 2024-06-05 144049](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/f5053340-d163-425c-8ca5-c6c4292ba6d7)
-
-保存先のパスを入力してEnterを押しましょう。
-
-Success. Convert mp4 to mp3 ==> https://convertio.co/ja/mp4-mp3/ と出たら完了です。
-
-## エラー
-
-### ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube An error occurred: ERROR: [generic] '' is not a valid URL. Set --default-search "ytsearch" (or run  yt-dlp "ytsearch:" ) to search YouTube
-
-![スクリーンショット 2024-06-05 145023](https://github.com/Moonlightdayo41/InternetDownloader/assets/170220451/f33defa7-fc37-479e-b27a-ed45cc794852)
-
-入力に間違えがあります。URLに間違えがないか、パスに間違えがないか確認してください。
+[![使い方](https://i9.ytimg.com/vi/EdT66gIRRjM/mqdefault.jpg?sqp=CNzG7bUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gVCghMA8=&rs=AOn4CLCyvLgfm0k0SvwPrQjekx_Q88j_Zg)](https://youtu.be/EdT66gIRRjM?si=sHoat7HyjIZn9lfR)
 
 ## サポート
 
